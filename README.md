@@ -25,14 +25,14 @@ str = "Interests and desires"
 newstr = str.center(021, "*")
 print=newstr
 
-Interests: 
-I like to float in pixels using different power apps like LumaFusion, FCPX, Procreate, Photoshop and Blender, just to mention few.
-SuperSecrectFact: I’m currently learning different aproaches to ARM technology.
+-Interests: 
+-I like to float in pixels using different power apps like LumaFusion, FCPX, Procreate, Photoshop and Blender, just to mention few.
+-SuperSecrectFact: I’m currently learning different aproaches to ARM technology.
 
-Other than that I am interested in multiple fields of IT with Blockchain technology as main one. 
+-Other than that I am interested in multiple fields of IT with Blockchain technology as main one. 
 
-Mobile Developing:
-Swift is my secret crush, and I definetly see myself absorb more skills/speed; 
+-Mobile Developing:
+-Swift is my secret crush, and I definetly see myself absorb more skills/speed; 
 depends on app type and test drive period I am available for beta testing/bughunt.
 
 
