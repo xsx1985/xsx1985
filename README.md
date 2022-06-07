@@ -44,7 +44,7 @@ depends on app type and test drive period I am available for beta testing/bughun
 
 ⏺ ⏺ ⏺ Should you need any further information, please do not hesitate to contact me. ⏺ ⏺ ⏺
 
-▶︎▶︎▶︎◀︎ 📫 How to reach me? ◀︎◀︎◀︎
+▶︎▶︎▶︎ 📫 How to reach me? ◀︎◀︎◀︎
 For general question: desk@021-Media.com
 Work/Colaborations: hello@silvioinpixels.com
 
